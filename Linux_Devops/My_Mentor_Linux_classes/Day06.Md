@@ -7,7 +7,7 @@
        - Debian: apt
        - Redhat: yum, dnf
 ## Install jenkins on ubuntu
- ## Steps:
+### Steps:
     - install jdk 17
     - add changes in the sources.list
     - update the definitions
