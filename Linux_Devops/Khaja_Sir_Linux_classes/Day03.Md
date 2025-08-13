@@ -44,7 +44,7 @@
 
  - adding users to sudoers group
      - **visudo**
- `add to sudo Group sudo usermod -aG sudo dev1`
+     - add to sudo Group sudo `usermod -aG sudo dev1`
 
 ## Linux permissions on a file 
    ![LinuxFilePermision](Images_all/Linux_File_Permission.jpeg)
